@@ -23,6 +23,11 @@ Program to implement variables and Operators using Java
 Developed by: NAVEEN KUMAR P
 RegisterNumber:  212224240102
 */
+```
+
+
+## Sourcecode.java:
+```
 import java.util.*;
 public class main
 {
@@ -34,13 +39,6 @@ public class main
     }
 }
 ```
-
-## Sourcecode.java:
-
-
-
-
-
 
 
 ## OUTPUT:
