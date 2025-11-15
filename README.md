@@ -50,7 +50,3 @@ public class main
 ## RESULT:
 
 The program executed successfully and displayed a personalized welcome message for the user.
-
-
-## RESULT:
-
