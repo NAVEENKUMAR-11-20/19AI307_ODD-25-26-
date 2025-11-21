@@ -11,12 +11,19 @@ To write a Java program that creates a class City with attributes cityName, popu
 ## ALGORITHM :
 
 1.Start.
+
 2.Create a class City with variables: cityName, population, area.
+
 3.Add a method printDetails() to display the values.
+
 4.In main(), create a Scanner object.
+
 5.Create a City object.
+
 6.Read city name, population, and area from the user.
+
 7.Call printDetails() to print the details.
+
 8.End.
 
 
@@ -74,3 +81,4 @@ class prog {
 ## RESULT:
 
 The program successfully created a City object and displayed its details.
+
