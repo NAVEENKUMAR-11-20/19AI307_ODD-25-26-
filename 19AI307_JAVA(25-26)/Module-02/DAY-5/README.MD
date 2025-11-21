@@ -69,8 +69,10 @@ class prog
 
 
 ## OUTPUT:
-
+<img width="533" height="444" alt="image" src="https://github.com/user-attachments/assets/6a45d952-6523-4e2d-9646-6bfebc481167" />
 
 
 ## RESULT:
+
+The program checks the given string and displays whether it contains only lowercase letters or not.
 
