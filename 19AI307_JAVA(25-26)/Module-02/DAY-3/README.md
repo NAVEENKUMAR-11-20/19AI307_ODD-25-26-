@@ -27,7 +27,7 @@ To create a Person class with private variables and provide public getter and se
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: NAVEEN KUAMR P
+Developed by: NAVEEN KUMAR P
 RegisterNumber:  212224240102
 */
 ```
@@ -95,4 +95,5 @@ public class Person {
 ## RESULT:
 
 The program displays the entered name, age, and country of the person.
+
 
