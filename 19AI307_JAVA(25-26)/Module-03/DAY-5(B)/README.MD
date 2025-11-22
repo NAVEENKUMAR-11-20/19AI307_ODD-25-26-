@@ -3,7 +3,10 @@
 ## QUESTION:
 
 Write a Java program to find the square root of a number using Double wrapper class.
+
 ## AIM:
+
+To write a Java program that uses the Double wrapper class to convert input into a numeric value and compute the square root of the given number.
 
 
 ## ALGORITHM :
@@ -55,6 +58,7 @@ public class SquareRoot
 ## RESULT:
 
 The program converts a string to a double, calculates its square root, and displays the result.**
+
 
 
 
