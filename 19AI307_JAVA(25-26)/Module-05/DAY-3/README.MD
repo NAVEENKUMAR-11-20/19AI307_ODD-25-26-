@@ -9,12 +9,20 @@ To write a Java program that reads a file and displays only the lines that conta
 
 
 ## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
 
+1.Read user input.
 
+2.Create PipedOutputStream and connect to PipedInputStream.
 
+3.Create and start WriterThread to write data to the pipe.
+
+4.Create and start ReaderThread to read data from the pipe.
+
+5.WriterThread writes bytes and closes stream.
+
+6.ReaderThread reads bytes, converts to string, and prints.
+
+7.End.
 
 
 ## PROGRAM:
@@ -68,3 +76,4 @@ public class JavaLineFilter {
 ## RESULT:
 
 The program transfers user input from one thread to another using piped streams and displays the received message.
+
