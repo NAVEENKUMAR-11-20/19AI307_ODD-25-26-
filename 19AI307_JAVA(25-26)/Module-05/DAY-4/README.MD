@@ -6,6 +6,7 @@ Write a java program for set the priority and name of the current thread.Conside
 
 ## AIM:
 
+To create and demonstrate threads in Java by assigning names and priorities, and to display their details.
 
 ## ALGORITHM :
 
@@ -76,3 +77,4 @@ public class ThreadPriorityExample {
 ## RESULT:
 
 The program creates two threads with user-specified names, assigns them different priorities, and prints their details showing the name, priority, and thread group.
+
