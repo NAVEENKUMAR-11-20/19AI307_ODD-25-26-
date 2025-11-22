@@ -6,6 +6,8 @@ Write a Java program to convert a string to an integer using a wrapper class and
 
 ## AIM:
 
+To develop a Java program that converts strings into integers using the Integer wrapper class and performs addition on the converted values.
+
 
 ## ALGORITHM :
 1.Algorithm (Short):
@@ -63,3 +65,4 @@ public class StringToIntegerAddition
 ## RESULT:
 
 The program converts two input strings into integers, adds them, and prints the sum.
+
